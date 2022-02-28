@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @zikrikhairan
-- 👀 I’m interested in Golang and Flutter
-- 🌱 I’m currently learning Java, Javascript and SQL
-- 📫 How to reach me ...
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.instagram.com/zikrikhairan/">
+  <img align="left" alt="Zikri Khairan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/zikri_khairan">
+  <img align="left" alt="Zikri Khairan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/zikrikhairan/">
+  <img align="left" alt="Zikri Khairan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/zikrikhairan">
+  <img align="left" alt="Zikri Khairan's Facebook" width="22px" src="https://i.imgur.com/mWO1ozE.png" />
+</a>
 
-<!---
-zikrikhairan/zikrikhairan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
+
+hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.

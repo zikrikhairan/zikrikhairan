@@ -5,7 +5,7 @@
 <a href="https://twitter.com/zikri_khairan">
   <img align="left" alt="Zikri Khairan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/zikrikhairan/">
+<a href="https://www.linkedin.com/in/zikri-khairan/">
   <img align="left" alt="Zikri Khairan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/zikrikhairan">

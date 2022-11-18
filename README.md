@@ -11,9 +11,6 @@
 <a href="https://www.facebook.com/zikrikhairan">
   <img align="left" alt="Zikri Khairan's Facebook" width="22px" src="https://i.imgur.com/mWO1ozE.png" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 hi, i'm [Zikri Khairan](https://zikrikhairan.medium.com/), a passionate self-taught Full Stack Developer at PT Bank BTPN Tbk.
